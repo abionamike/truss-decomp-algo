@@ -1,0 +1,224 @@
+k = 3 truss edges:
+-----------------
+k = 4 truss edges:
+-----------------
+k = 5 truss edges:
+-----------------
+k = 6 truss edges:
+-----------------
+k = 7 truss edges:
+-----------------
+k = 8 truss edges:
+-----------------
+k = 9 truss edges:
+-----------------
+k = 10 truss edges:
+-----------------
+k = 11 truss edges:
+-----------------
+k = 12 truss edges:
+-----------------
+k = 13 truss edges:
+-----------------
+k = 14 truss edges:
+-----------------
+k = 15 truss edges:
+-----------------
+k = 16 truss edges:
+-----------------
+k = 17 truss edges:
+-----------------
+k = 18 truss edges:
+-----------------
+k = 19 truss edges:
+-----------------
+k = 20 truss edges:
+-----------------
+k = 21 truss edges:
+-----------------
+k = 22 truss edges:
+-----------------
+k = 23 truss edges:
+-----------------
+k = 24 truss edges:
+-----------------
+k = 25 truss edges:
+-----------------
+k = 26 truss edges:
+-----------------
+k = 27 truss edges:
+-----------------
+k = 28 truss edges:
+-----------------
+k = 29 truss edges:
+-----------------
+k = 30 truss edges:
+-----------------
+k = 31 truss edges:
+-----------------
+k = 32 truss edges:
+-----------------
+k = 33 truss edges:
+-----------------
+k = 34 truss edges:
+-----------------
+k = 35 truss edges:
+-----------------
+k = 36 truss edges:
+-----------------
+k = 37 truss edges:
+-----------------
+k = 38 truss edges:
+-----------------
+k = 39 truss edges:
+-----------------
+k = 40 truss edges:
+-----------------
+k = 41 truss edges:
+-----------------
+k = 42 truss edges:
+-----------------
+k = 43 truss edges:
+-----------------
+k = 44 truss edges:
+-----------------
+k = 45 truss edges:
+-----------------
+k = 46 truss edges:
+-----------------
+k = 47 truss edges:
+-----------------
+k = 48 truss edges:
+-----------------
+k = 49 truss edges:
+-----------------
+k = 50 truss edges:
+-----------------
+k = 51 truss edges:
+-----------------
+k = 52 truss edges:
+-----------------
+k = 53 truss edges:
+-----------------
+k = 54 truss edges:
+-----------------
+k = 55 truss edges:
+-----------------
+k = 56 truss edges:
+-----------------
+k = 57 truss edges:
+-----------------
+k = 58 truss edges:
+-----------------
+k = 59 truss edges:
+-----------------
+k = 60 truss edges:
+-----------------
+k = 61 truss edges:
+-----------------
+k = 62 truss edges:
+-----------------
+k = 63 truss edges:
+-----------------
+k = 64 truss edges:
+-----------------
+k = 65 truss edges:
+-----------------
+k = 66 truss edges:
+-----------------
+k = 67 truss edges:
+-----------------
+k = 68 truss edges:
+-----------------
+k = 69 truss edges:
+-----------------
+k = 70 truss edges:
+-----------------
+k = 71 truss edges:
+-----------------
+k = 72 truss edges:
+-----------------
+k = 73 truss edges:
+-----------------
+k = 74 truss edges:
+-----------------
+k = 75 truss edges:
+-----------------
+k = 76 truss edges:
+-----------------
+k = 77 truss edges:
+-----------------
+k = 78 truss edges:
+-----------------
+k = 79 truss edges:
+-----------------
+k = 80 truss edges:
+-----------------
+k = 81 truss edges:
+-----------------
+k = 82 truss edges:
+-----------------
+k = 83 truss edges:
+-----------------
+k = 84 truss edges:
+-----------------
+k = 85 truss edges:
+-----------------
+k = 86 truss edges:
+-----------------
+k = 87 truss edges:
+-----------------
+k = 88 truss edges:
+-----------------
+k = 89 truss edges:
+-----------------
+k = 90 truss edges:
+-----------------
+k = 91 truss edges:
+-----------------
+k = 92 truss edges:
+-----------------
+k = 93 truss edges:
+-----------------
+k = 94 truss edges:
+-----------------
+k = 95 truss edges:
+-----------------
+k = 96 truss edges:
+-----------------
+k = 97 truss edges:
+-----------------
+k = 98 truss edges:
+-----------------
+k = 99 truss edges:
+-----------------
+k = 100 truss edges:
+-----------------
+k = 101 truss edges:
+-----------------
+k = 102 truss edges:
+-----------------
+k = 103 truss edges:
+-----------------
+k = 104 truss edges:
+-----------------
+k = 105 truss edges:
+-----------------
+k = 106 truss edges:
+-----------------
+k = 107 truss edges:
+-----------------
+k = 108 truss edges:
+-----------------
+k = 109 truss edges:
+-----------------
+k = 110 truss edges:
+-----------------
+k = 111 truss edges:
+-----------------
+k = 112 truss edges:
+-----------------
+k = 113 truss edges:
+-----------------
+k = 114 truss edges:
+-----------------

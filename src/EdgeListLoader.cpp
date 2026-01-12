@@ -1,18 +1,21 @@
 #include "EdgeListLoader.h"
-#include "KTruss.h"
 #include <fstream>
 #include <sstream>
-#include <iostream>
+#include <unordered_map>
+#include <stdexcept>
 
-void loadEdgeList(const std::string& filename, KTruss& kt) {
+int loadEdgeListAndRemap(
+  const std::string& filename,
+  std::vector<std::pair<int,int>>& edges
+) {
   std::ifstream fin(filename);
-  if (!fin) {
-    throw std::runtime_error("Cannot open edge list file");
-  }
+  if (!fin) throw std::runtime_error("Cannot open file");
+
+  std::unordered_map<int,int> id;
+  int next = 0;
 
   std::string line;
   int u, v;
-  int edges = 0;
 
   while (std::getline(fin, line)) {
     if (line.empty() || line[0] == '#') continue;
@@ -20,9 +23,11 @@ void loadEdgeList(const std::string& filename, KTruss& kt) {
     std::stringstream ss(line);
     ss >> u >> v;
 
-    kt.addEdge(u, v);
-    edges++;
+    if (!id.count(u)) id[u] = next++;
+    if (!id.count(v)) id[v] = next++;
+
+    edges.emplace_back(id[u], id[v]);
   }
 
-  std::cout << "Loaded " << edges << " edges\n";
+  return next;  // exact number of vertices
 }

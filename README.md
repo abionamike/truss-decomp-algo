@@ -111,14 +111,6 @@ What happens when you run the script:
 * Outputs results to the `output/` folder.
 * Can be further processed for visualization or analysis using Python, R, or other tools.
 
-
----
-
-## **Notes**
-
-* The number of vertices (`n`) is currently hardcoded for SNAP datasets but can be easily made configurable.
-* Designed for **large-scale graphs**; ensure your system has sufficient memory for very large datasets.
-
 ---
 
 ## **References**
