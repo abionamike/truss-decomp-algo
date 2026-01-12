@@ -5,7 +5,6 @@
 
 using namespace std;
 
-// ✅ THIS IS WHAT YOU WERE MISSING
 KTruss::KTruss(int numVertices) : n(numVertices), adj(numVertices) {}
 
 long long KTruss::edgeKey(int u, int v) {
@@ -33,6 +32,7 @@ void KTruss::decompose() {
         }
     }
 
+    // Starting decomposition from the 3-truss level
     int k = 3;
 
     while (!support.empty()) {

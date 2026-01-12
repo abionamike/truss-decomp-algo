@@ -111,13 +111,6 @@ What happens when you run the script:
 * Outputs results to the `output/` folder.
 * Can be further processed for visualization or analysis using Python, R, or other tools.
 
----
-
-## **Extending the Experiment**
-
-1. **Adding datasets**: Place new `.txt` files in the `data/` folder and pass their path to the script.
-2. **Adding algorithms**: Additional graph algorithms (e.g., k-core, triangle counting) can be added in `src/` and `include/`.
-3. **Automation**: You can extend `run_ktruss.sh` to loop over multiple datasets automatically.
 
 ---
 
@@ -132,9 +125,3 @@ What happens when you run the script:
 
 * [SNAP Datasets](http://snap.stanford.edu/data/)
 * VLDB 2022 paper: *Efficient Triangle-Connected Truss Community Search in Dynamic Graphs*
-
----
-
-If you want, I can also **add a Quick Start Example** section with a tiny graph showing the **input, execution, and output**, which makes the README more beginner-friendly and immediately testable.
-
-Do you want me to do that?
